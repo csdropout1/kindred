@@ -1,0 +1,6 @@
+pip3 install PyObjC
+pip install requests
+pip install ffmpeg
+ppp install pydub
+
+Needs VLC 

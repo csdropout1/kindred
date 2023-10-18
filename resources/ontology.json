@@ -1,0 +1,14 @@
+{
+    "ontology": {
+        
+        "leave": ["exit", "quit", "bye", "goodbye"],
+        
+        "loss_severe": ["mom", "dad", "grandma", "grandpa", "grandmother", "grandfather", "uncle", "aunt", "sister","brother"],
+        "loss_animal": ["dog", "pet", "cat", "fish", "goldfish", "rabbit", "lizard", "hamster", "puppy", "kitten"],
+        "loss_academics": ["grade", "assignment", "gpa", "moving maze"],
+        
+        "stress_symptom":["anxiety", "depression", "panic attacks", "insomnia", "burnout", "mental exhaustion",  "trauma", "pressure", "overwhelm", "nervousness", "tension", "fear", "worry", "frustration", "irritability", "anger", "mood swings", "hopelessness", "helplessness", "low self-esteem", "self-doubt", "shame", "guilt", "perfectionism", "social anxiety", "performance anxiety", "chronic stress", "acute stress", "work-related stress", "financial stress", "relationship stress", "family stress", "parenting stress", "school stress", "exam stress",  "stress hormones", "cortisol", "adrenaline", "noradrenaline", "fight or flight response", "freezing response", "avoidance behavior", "emotional eating", "substance abuse", "alcoholism", "drug addiction", "self-harm", "suicidal ideation", "suicidal tendencies", "nightmares", "sleepwalking", "sleep terrors", "fatigue", "exhaustion", "lack of energy", "difficulty concentrating", "memory problems", "brain fog", "headaches", "muscle tension", "digestive problems", "high blood pressure"],
+        "stress_disorder": ["ptsd”, “obsessive-compulsive disorder", "phobias", "generalized anxiety disorder", "postpartum depression", "seasonal affective disorder", "bipolar disorder", "schizophrenia", "dissociative identity disorder", "borderline personality disorder", "narcissistic personality disorder", "histrionic personality disorder", "antisocial personality disorder", "avoidant personality disorder", "obsessive-compulsive personality disorder", "passive-aggressive personality disorder", "dependent personality disorder", "somatoform disorders", "hypochondria", "body dysmorphic disorder", "insomnia disorder", "sleep apnea", "restless leg syndrome", "cardiovascular disease"],
+        "stress_treatment": ["cognitive-behavioral therapy", "psychotherapy", "group therapy", "medication", "coping mechanisms", "stress management", "mindfulness", "meditation", "yoga", "breathing exercises", "antidepressants", "anti-anxiety medication", "benzodiazepines", "sedatives"]
+    }
+}
